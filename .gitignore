@@ -1,0 +1,7 @@
+.idea/
+*.csv
+*.xml
+*.log
+.DS_Store
+*.sh
+bin/
